@@ -1,0 +1,10 @@
+.env
+.env.*
+!.env.example
+.aws-sam/
+.terraform/
+*.tfstate
+.tfstate.
+pycache/
+*.py[cod]
+.DS_store
